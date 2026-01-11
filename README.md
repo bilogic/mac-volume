@@ -10,7 +10,7 @@ the default, but is, for example, currently in active use for a video call.
 
 ### Download binary (recommended)
 
-Download the latest binary from the [releases page](https://github.com/akrabat/quickss/releases).
+Download the latest binary from the [releases page](https://github.com/akrabat/mac-volume/releases).
 
 ### Compile from source
 
